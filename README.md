@@ -15,3 +15,5 @@ robot = matlab + solidworks
 ![image](https://user-images.githubusercontent.com/105936733/169726137-f983e2cb-d239-4d7a-8662-e053ea06a650.png)
 
 - mô phỏng điều khiển cánh tay 4 bậc matlab + solidworks
+
+![image](https://user-images.githubusercontent.com/105936733/169732973-454a3415-343f-44eb-846a-6f52f0802677.png)
